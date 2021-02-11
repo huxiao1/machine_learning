@@ -1,5 +1,6 @@
 # machine_learning
 getting start to machine learning
+
 chapter1: Multiple factor/single factor linear regression
 
 chapter2: Logistic regression
