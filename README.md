@@ -9,4 +9,4 @@ chapter3: Kmeans, KNN, meanshift
 
 chapter4: Decision tree
 
-chapter5: Data optimization
+chapter5: Model optimization
